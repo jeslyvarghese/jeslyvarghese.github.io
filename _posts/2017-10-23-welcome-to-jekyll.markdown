@@ -1,8 +1,9 @@
 ---
 layout: post
-title: 23/11/2017: 101 Days Of Image Processing
+title:  "101 Days Of Image Processing"
+date:   2017-10-23 13:56:19 +0530
+categories: image-processing image computer-science 
 ---
-
 # 101 Days Of Image Processing
 
 The company I work with have its core-technology dealing with image processing. But because of my bad aptitude for math, as well as being holed inside my own work. The knowledge I have in this domain is very little.
