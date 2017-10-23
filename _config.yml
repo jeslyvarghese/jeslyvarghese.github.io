@@ -12,5 +12,5 @@ theme: jekyll-theme-minimal
 
 gems:
   - jekyll-mentions
-plugins:
+plugins:0
   - jekyll-feed

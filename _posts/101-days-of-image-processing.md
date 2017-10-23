@@ -1,3 +1,8 @@
+---
+layout: post
+title: 23/11/2017: 101 Days Of Image Processing
+---
+
 # 101 Days Of Image Processing
 
 The company I work with have its core-technology dealing with image processing. But because of my bad aptitude for math, as well as being holed inside my own work. The knowledge I have in this domain is very little.
