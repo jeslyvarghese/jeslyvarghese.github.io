@@ -1,4 +1,10 @@
 title: jesly.varghese
+email: jesly.varghese@gmail.com
+description: 'Personal webspace of Jesly Varghese.'
+url: 'jesly.me'
+twitter_username: jesly.varghese
+include:
+    - _pages
 description: 
 google_analytics: 
 show_downloads: false
